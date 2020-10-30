@@ -46,10 +46,11 @@
 
 ---
 <br />
-
+<!-- Top linguagens utilizadas -->
 📊 **This week I spent my time programming on**
 
-![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&count_private=true,prs)
+[![Top Langs](https://github-readme-stats-vert-iota.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ricardo-cas/github-readme-stats)
+
 
 ---
 <br />
