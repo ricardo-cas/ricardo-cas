@@ -41,7 +41,7 @@
 :zap: **My GitHub Stats**
 
 
-![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&count_private=true&theme=algolia,prs)
+![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&theme=algolia&count_private=true,prs)
 
 
 ---
