@@ -26,9 +26,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-
-
+- [New Post!](https://dev.to/ricardocas/new-post-4i3j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
