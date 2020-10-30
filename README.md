@@ -38,7 +38,7 @@
 
 ---
 
-:zap: **My GitHub Stats**
+### :zap: **My GitHub Stats**
 
 
 ![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&theme=algolia&count_private=true,prs)
@@ -47,7 +47,7 @@
 ---
 <br />
 <!-- Top linguagens utilizadas -->
-📊 **This week I spent my time programming on**
+### 📊 This week I spent my time programming on
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardocas)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -55,7 +55,7 @@
 ---
 <br />
 <!-- Top linguagens utilizadas -->
-:zap: **Top Languages coded**
+### :zap: Top Languages coded
 
 [![Top Langs](https://github-readme-stats-vert-iota.vercel.app/api/top-langs/?username=ricardo-cas)](https://github.com/ricardo-cas/github-readme-stats)
 
