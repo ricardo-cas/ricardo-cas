@@ -55,7 +55,7 @@
 ---
 <br />
 <!-- Top linguagens utilizadas -->
-:zap: **Top Languages that i code**
+:zap: **Top Languages coded**
 
 [![Top Langs](https://github-readme-stats-vert-iota.vercel.app/api/top-langs/?username=ricardo-cas)](https://github.com/ricardo-cas/github-readme-stats)
 
