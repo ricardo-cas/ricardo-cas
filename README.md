@@ -7,14 +7,31 @@
 - 🥅 2020 Goals: Learn a new programming language
 - ⚡ Fun fact: I love pokemon 
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="ricardo.digital" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="rcosta_digital | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="rcosta_digital | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="ricardocas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="clickdoricardo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
+
+<!-- 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5) -->
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+
+
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 
 
