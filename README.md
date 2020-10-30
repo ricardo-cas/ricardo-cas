@@ -1,6 +1,6 @@
-### Hi there, I'm Ricardo - aka [Jaaaaps][website] 👋
+### Hi there, I'm Ricardo Costa - aka [Jaaaaps][website] 👋
 
-## I'm nerd, funny and cool guy!
+## I'm nerd, master pokemon and cool guy!
 
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate with other developers
