@@ -25,6 +25,7 @@
 
 ---
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="ricardo.digital" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -35,12 +36,14 @@
 
 ---
 <br />
+
 📊 **This week I spent my time on**
 
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5) -->
 
 ---
 <br />
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [New Post!](https://dev.to/ricardocas/new-post-4i3j)
