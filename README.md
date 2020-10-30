@@ -35,10 +35,19 @@
 
 
 <br />
+<details>
+  <summary>:zap: **My GitHub Stats**</summary>
 
-📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats.ricardo-cas.vercel.app/api/wakatime?username=ricardo-cas&hide_title=true&hide_border=true&langs_count=5)
+![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&count_private=true,prs)
+
+</details>
+---
+<br />
+
+📊 **This week I spent my time programming on**
+
+![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&count_private=true,prs)
 
 ---
 <br />
