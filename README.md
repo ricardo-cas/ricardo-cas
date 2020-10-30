@@ -1,13 +1,12 @@
-### Hi there, I'm Ricardo Costa - aka [Jaaaaps][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there, I'm Ricardo Costa - aka [Jaaaaps][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm nerd, master pokemon <img src = "http://i.imgur.com/wFJgJO8.png" width= "20px"></a> and cool guy! :smile:
+### I'm nerd, master pokemon <img src = "http://i.imgur.com/wFJgJO8.png" width= "20px"></a> and cool guy! :smile:
 
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn a new programming language
 - ⚡ Fun fact: I :heart: pokemon <img src="http://i.imgur.com/jee6nD3.png" width="19px"></a>, harry potter <img src="http://i.imgur.com/8sLXTMm.jpg" width="19px"></a> and my dog: Mel 🐶 
 
----
 <br />
 
 ### Languages and Tools:
@@ -23,7 +22,7 @@
 [<img align="left" alt="Phyton" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 
----
+
 <br />
 
 ### Connect with me:
