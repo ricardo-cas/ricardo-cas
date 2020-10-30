@@ -43,7 +43,7 @@
 ![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&theme=algolia&count_private=true,prs)
 
 <br />
-<!-- Top linguagens utilizadas -->
+<!-- Atividade da semana -->
 
 ### 📊 This week I spent my time programming on
 
@@ -58,6 +58,16 @@
 
 ---
 <br />
+
+<!-- Teste -->
+
+### :zap: Atividades da Semana
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
+<br />
+
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
