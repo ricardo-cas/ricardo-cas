@@ -9,6 +9,14 @@
 
 <br />
 
+### :headphones: Spotify Now Playing
+
+[![Spotify](https://novatorem.ricardo-cas.vercel.app/api/spotify)](https://open.spotify.com/user/ricardo_cas)
+
+
+---
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -70,6 +78,9 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 ---
 <br />
+
+
+
 
 
 ### 📕 Latest Blog Posts
