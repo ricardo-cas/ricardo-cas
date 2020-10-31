@@ -75,6 +75,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1 of 100 Days of Code](https://dev.to/ricardocas/day-1-of-100-days-of-code-537f)
 - [100 Days of code](https://dev.to/ricardocas/100-days-of-code-547i)
 - [New Post!](https://dev.to/ricardocas/new-post-4i3j)
 <!-- BLOG-POST-LIST:END -->
