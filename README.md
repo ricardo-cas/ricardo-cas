@@ -1,22 +1,27 @@
-## Hi there, I'm Ricardo Costa - aka [Jaaaaps][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+  &nbsp; <br> 
+<strong>I'm nerd, master pokemon <img src = "http://i.imgur.com/wFJgJO8.png" width= "20px"></a> and cool guy! :smile:
 
-### I'm nerd, master pokemon <img src = "http://i.imgur.com/wFJgJO8.png" width= "20px"></a> and cool guy! :smile:
+<br>
+
 
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn a new programming language
-- ⚡ Fun fact: I :heart: pokemon <img src="http://i.imgur.com/jee6nD3.png" width="19px"></a>, harry potter <img src="http://i.imgur.com/8sLXTMm.jpg" width="19px"></a> and my dog: Mel 🐶 
-
-<br />
-
-### :headphones: Spotify Now Playing
-
-[![Spotify](https://novatorem.ricardo-cas.vercel.app/api/spotify)](https://open.spotify.com/user/ricardo_cas)
+- ⚡ Fun fact: I :heart: pokemon <img src="http://i.imgur.com/jee6nD3.png" width="19px"></a>, harry potter <img src="http://i.imgur.com/8sLXTMm.jpg" width="19px"></a> and my dog: Mel 🐶
 
 
----
-<br />
-
+  </td>
+  <td width="50%">
+<br><p align="center">       🎧 Spotify Now Playing
+&nbsp; <br> [![Spotify](https://novatorem.ricardo-cas.vercel.app/api/spotify)](https://open.spotify.com/user/ricardo_cas)
+ 
+</p>
+  </td>
+  </table>
+  
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -48,14 +53,14 @@
 
 ### :zap: **My GitHub Stats**
 
-![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&theme=algolia&count_private=true,prs)
+![Anurag's github stats](https://github-readme-stats-vert-iota.vercel.app/api?username=ricardo-cas&hide=contribs&theme=graywhite&count_private=true,prs)
 
 <br />
 <!-- Atividade da semana -->
 
 ### 📊 This week I spent my time programming on
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardocas)](https://github.com/anuraghazra/github-readme-stats)
+[![ricardocas's wakatime stats](https://github-readme-stats-vert-iota.vercel.app/api/wakatime?username=ricardocas)](https://github.com/ricardo-cas/github-readme-stats)
 
 <br />
 <!-- Top linguagens utilizadas -->
@@ -66,24 +71,6 @@
 
 ---
 <br />
-
-<!-- Teste -->
-
-### :zap: Atividades da Semana
-
-<!--START_SECTION:waka-->
-```text
-Week: 23 October, 2020 - 30 October, 2020
-
-Markdown   1 hr 8 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   86.80 % 
-YAML       10 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.12 % 
-```
-<!--END_SECTION:waka-->
----
-<br />
-
-
-
 
 
 ### 📕 Latest Blog Posts
