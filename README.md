@@ -67,7 +67,8 @@
 
 ### :zap: Top Languages coded
 
-[![Top Langs](https://github-readme-stats-vert-iota.vercel.app/api/top-langs/?username=ricardo-cas)](https://github.com/ricardo-cas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-cas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 <br />
