@@ -76,11 +76,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 7 of 100 Days of Code](https://dev.to/ricardocas/day-7-of-100-days-of-code-4lgo)
+- [Day 6 of 100 Days of Code](https://dev.to/ricardocas/day-6-of-100-days-of-code-3emd)
 - [Day 5 of 100 Days of Code](https://dev.to/ricardocas/day-5-of-100-days-of-code-1j3p)
 - [Day 4 of 100 Days of Code](https://dev.to/ricardocas/day-4-of-100-days-of-code-1en4)
 - [Day 3 of 100 Days of Code](https://dev.to/ricardocas/day-3-of-100-days-of-code-3l8b)
-- [Day 2 of 100 Days of Code](https://dev.to/ricardocas/day-2-of-100-days-of-code-3bep)
-- [Day 1 of 100 Days of Code](https://dev.to/ricardocas/day-1-of-100-days-of-code-537f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
