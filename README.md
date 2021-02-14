@@ -6,18 +6,16 @@
 
 <br>
 
-
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Learn a new programming language
+- 🥅 2021 Goals: Specialize in JavaScript and his frameworks
 - ⚡ Fun fact: I :heart: pokemon <img src="http://i.imgur.com/jee6nD3.png" width="19px"></a>, harry potter <img src="http://i.imgur.com/8sLXTMm.jpg" width="19px"></a> and my dog: Mel 🐶
-
 
   </td>
   <td width="50%">
 <br><p align="center">       🎧 Spotify Now Playing
 &nbsp; <br> [![Spotify](https://novatorem.ricardo-cas.vercel.app/api/spotify)](https://open.spotify.com/user/ricardo_cas)
- 
+
 </p>
   </td>
   </table>
@@ -35,7 +33,6 @@
 [<img align="left" alt="Phyton" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 
-
 <br />
 
 ### Connect with me:
@@ -43,9 +40,9 @@
 [<img align="left" alt="ricardo.digital" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ricardocas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="clickdoricardo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="rcosta_digital | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-
 
 <br />
 
@@ -69,23 +66,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-cas)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
+
 <br />
-
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Day 2 of 100 Days of Code](https://dev.to/ricardocas/day-2-of-100-days-of-code-3bep)
-- [Day 1 of 100 Days of Code](https://dev.to/ricardocas/day-1-of-100-days-of-code-537f)
-- [100 Days of code](https://dev.to/ricardocas/100-days-of-code-547i)
-- [New Post!](https://dev.to/ricardocas/new-post-4i3j)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 [website]: http://www.ricardo.digital/
 [twitter]: https://twitter.com/rcosta_digital
 [instagram]: https://www.instagram.com/clickdoricardo/
 [linkedin]: https://www.linkedin.com/in/ricardocas/
+
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
