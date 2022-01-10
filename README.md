@@ -6,9 +6,9 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working with Web Development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Specialize in JavaScript and his frameworks
+- 🥅 2022 Goals: Specialize on Angular, AngularJS
 - ⚡ Fun fact: I :heart: pokemon <img src="http://i.imgur.com/jee6nD3.png" width="19px"></a>, harry potter <img src="http://i.imgur.com/8sLXTMm.jpg" width="19px"></a> and my dog: Mel 🐶
 
   </td>
