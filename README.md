@@ -60,15 +60,6 @@
 [![ricardocas's wakatime stats](https://github-readme-stats-vert-iota.vercel.app/api/wakatime?username=ricardocas)](https://github.com/ricardo-cas/github-readme-stats)
 
 <br />
-<!-- Top linguagens utilizadas -->
-
-### :zap: Top Languages coded
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-cas)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<br />
 
 [website]: http://www.ricardo.digital/
 [twitter]: https://twitter.com/rcosta_digital
