@@ -2,14 +2,14 @@
   <tr>
   <td width="50%">
   &nbsp; <br> 
-<strong>I'm nerd, master pokemon <img src = "http://i.imgur.com/wFJgJO8.png" width= "20px"></a> and cool guy! :smile:
+<strong>I'm nerd, Father, master pokemon <img src = "http://i.imgur.com/wFJgJO8.png" width= "20px"></a> and cool guy! :smile:
 
 <br>
 
 - 🌱 I’m currently working with Web Development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Specialize on Angular, AngularJS
-- ⚡ Fun fact: I :heart: pokemon <img src="http://i.imgur.com/jee6nD3.png" width="19px"></a>, harry potter <img src="http://i.imgur.com/8sLXTMm.jpg" width="19px"></a> and my dog: Mel 🐶
+- 🥅 2025 Goals: Increase my knowledge on Docker 🐳
+- ⚡ Fun fact: I :heart: pokemon <img src="http://i.imgur.com/jee6nD3.png" width="19px"></a>, harry potter <img src="http://i.imgur.com/8sLXTMm.jpg" width="19px"></a> and my dog: Zeus 🐶
 
   </td>
   <td width="50%">
